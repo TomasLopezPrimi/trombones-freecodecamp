@@ -1,6 +1,4 @@
-# trombones-freecodecamp
-Created with CodeSandbox
-
+# product-landing-page
 "Legacy Responsive Web Design" from freeCodeCamp
 
 
